@@ -6,7 +6,8 @@ Utilizando <code>REACT + SASS</code>
 
 - [] Estruturação do ambiente de trabalho. 
     - [] Modelando layout incial da single page.
-- [] Estilização primária. 
+- [] Estilização primária.
+- [] Responsividade do conteúdo. 
 
 <hr>
 

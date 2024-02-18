@@ -1,9 +1,18 @@
+/// Components React
+import Sidebar from './components/Sidebar'
+import MainContent from './components/MainContent'
+
+///Styles
+import './styles/components/app.sass'
+
 function App() {
 
   return (
     <>
-      <div>
-        <h4>React + Sass</h4>
+      <div id="profileDigital">
+        <h1>Lucas Basto</h1>
+        <Sidebar/>
+        <MainContent/>
       </div>
     </>
   )
