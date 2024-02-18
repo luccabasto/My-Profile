@@ -1,8 +1,28 @@
-# React + Vite
+## Criando meu currículo digital 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Utilizando <code>REACT + SASS</code>
 
-Currently, two official plugins are available:
+### Steep by steep 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [] Estruturação do ambiente de trabalho. 
+    - [] Modelando layout incial da single page.
+- [] Estilização primária. 
+
+<hr>
+
+<i>Styles layout</i><br>
+<sub>Por esse projeto consistir em um currículo no formato digital, a estilização seguirá um padrão mais sóbrio.</sub>
+
+<p> Após concluir com a criação funcional do projeto, darei inicio na estilização, de uma forma mais complexa.</p>
+
+
+
+<p>Eu tenho seguido essa ordem do processo de desenvolvimento.</p>
+
+<ul>
+    <li>1° Desenvolvimento funcional de todo o projeto.</li>
+    <li>2° Processo de estilização.</li>
+</ul>
+
+
+ 
