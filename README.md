@@ -4,9 +4,9 @@ Utilizando <code>REACT + SASS</code>
 
 ### Steep by steep 
 
-- [] Estruturação do ambiente de trabalho. 
-    - [] Modelando layout incial da single page.
-- [] Estilização primária.
+- [✅] Estruturação do ambiente de trabalho. 
+    - [<i>Em desenvolvimento</i> ⚙️] Modelando layout incial da single page.
+- [✅] Estilização primária.
 - [] Responsividade do conteúdo. 
 
 <hr>
