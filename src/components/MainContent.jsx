@@ -1,10 +1,24 @@
+///Components
+import AboutContainer from './AboutContainer'
+import TechContainer from './TechContainer'
+import GalleryContainer from './GalleryContainer'
+
+
+//Styles
 import '../styles/components/maincontent.sass'
+
+
 
 
 const MainContent = () => {
   return (
     <main id='main-content'>
-      <h6>Content</h6>
+      <AboutContainer/>
+      <TechContainer/>
+      <GalleryContainer/>
+      
+     
+      
 
     </main>
   )

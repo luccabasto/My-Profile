@@ -1,15 +1,13 @@
 import Avatar from '../img/Avatar.jpg';
 
 ///Components
-import './SocialNetworks'
-import './InfoContato'
-import './DownloadProfile'
-
-//Styles
-import '../styles/components/sidebar.sass'
 import SocialNetworks from './SocialNetworks';
 import InfoContato from './InfoContato';
 import DownloadProfile from './DownloadProfile';
+
+//Styles
+import '../styles/components/sidebar.sass'
+
 
 const Sidebar = () => {
   return (
