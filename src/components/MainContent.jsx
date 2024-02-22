@@ -7,9 +7,6 @@ import GalleryContainer from './GalleryContainer'
 //Styles
 import '../styles/components/maincontent.sass'
 
-
-
-
 const MainContent = () => {
   return (
     <main id='main-content'>
@@ -17,9 +14,6 @@ const MainContent = () => {
       <TechContainer/>
       <GalleryContainer/>
       
-     
-      
-
     </main>
   )
 }
